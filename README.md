@@ -1,4 +1,8 @@
-# Get Started!
+# Hubness
+
+Repository of the awesome Hubness project.
+
+## Get Started!
 
 Here's how to set up `hubness` for local development.
 
@@ -53,3 +57,7 @@ Here's how to set up `hubness` for local development.
   ```
 
 8. Submit a pull request through the GitHub website.
+
+## Credits
+
+This project was created based on [fernandojunior/python-template-simple](https://github.com/fernandojunior/python-template-simple) project template.
